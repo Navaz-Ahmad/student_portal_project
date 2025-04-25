@@ -42,7 +42,7 @@ Built with modern web technologies to digitize and automate traditionally time-c
 
 ## 📂 Project Structure
 
-```
+
 student-portal/
 ├── backend/
 │   ├── db.js                     # OracleDB connection & query executor
@@ -76,7 +76,7 @@ student-portal/
 ├── .env                          # SESSION_SECRET, DB credentials
 ├── package.json                  # Scripts & dependencies
 └── README.md
-```
+
 
 ---
 
