@@ -37,8 +37,8 @@ Built with modern web technologies to digitize and automate traditionally time-c
   - CORS & Body-Parser  
   - Environment variables via `dotenv`
 
----
 
+```
 ## 📂 Project Structure
 
 
@@ -76,8 +76,7 @@ student-portal/
 ├── package.json                  # Scripts & dependencies
 └── README.md
 
-
----
+```
 
 ## ⚙️ Setup & Installation
 
