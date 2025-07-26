@@ -2,7 +2,6 @@
 # student_portal_project
 
 
-```markdow
 # 🎓 Student Portal
 
 A comprehensive, full-stack web application to streamline academic interactions between students and faculty through features like authentication, assignment management, attendance tracking, event calendars, and resource access.  
